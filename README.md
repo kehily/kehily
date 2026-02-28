@@ -6,8 +6,8 @@
 ### Currently learning HTML and CSS
 
 
-### LinkedIn (https://www.linkedin.com/in/kehily-sias-jaquez-a3b126231/)
-### Codepen (https://codepen.io/kehilyyy/pens/showcase)
+### [LinkedIn](https://www.linkedin.com/in/kehily-sias-jaquez-a3b126231/)
+### [Codepen]9(https://codepen.io/kehilyyy/pens/showcase)
 <!--
 **kehily/kehily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
