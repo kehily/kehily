@@ -1,9 +1,9 @@
 ## Hey there! 👋 I'm Kehily Sias, welcome to my GitHub ⭐️
 ## About Me
 
-# 🌱 I'm an Arizona State University student, majoring in Graphic Information Technology with a minor in Digital Audiences.
+### 🌱 I'm an Arizona State University student, majoring in Graphic Information Technology with a minor in Digital Audiences.
 
-# Currently learning HTML and CSS
+### Currently learning HTML and CSS
 
 <!--
 **kehily/kehily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
